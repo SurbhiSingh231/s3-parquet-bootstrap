@@ -1,1 +1,0 @@
-message m { required binary field; }
