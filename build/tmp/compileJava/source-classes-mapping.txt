@@ -1,0 +1,18 @@
+org/example/s3/S3Service.java
+ org.example.s3.S3Service
+org/example/CustomParquetWriter.java
+ org.example.CustomParquetWriter
+org/example/CustomWriteSupport.java
+ org.example.CustomWriteSupport
+ org.example.CustomWriteSupport$1
+org/example/Constants.java
+ org.example.Constants
+org/example/s3/S3Provider.java
+ org.example.s3.S3Provider
+ org.example.s3.S3Provider$1
+org/example/SecretFileProcessor.java
+ org.example.SecretFileProcessor
+org/example/ParquetFileGenerator.java
+ org.example.ParquetFileGenerator
+org/example/App.java
+ org.example.App
