@@ -1,5 +1,6 @@
 package org.example;
 
+import org.example.parquet.ParquetFileGenerator;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 

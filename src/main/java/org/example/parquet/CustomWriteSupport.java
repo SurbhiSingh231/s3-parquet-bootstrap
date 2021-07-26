@@ -1,4 +1,4 @@
-package org.example;
+package org.example.parquet;
 
 import org.apache.hadoop.conf.Configuration;
 import org.apache.parquet.column.ColumnDescriptor;

@@ -1,5 +1,6 @@
 package org.example;
 
+import org.example.parquet.ParquetFileGenerator;
 import org.example.s3.S3Service;
 import org.example.s3.S3Provider;
 

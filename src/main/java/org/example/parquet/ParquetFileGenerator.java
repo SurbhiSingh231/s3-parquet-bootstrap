@@ -1,4 +1,4 @@
-package org.example;
+package org.example.parquet;
 
 import org.apache.hadoop.fs.Path;
 import org.apache.parquet.hadoop.metadata.CompressionCodecName;

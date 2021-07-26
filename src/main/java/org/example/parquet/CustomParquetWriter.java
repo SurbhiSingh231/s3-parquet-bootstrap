@@ -1,8 +1,6 @@
-package org.example;
+package org.example.parquet;
 
-import org.apache.avro.Schema;
 import org.apache.hadoop.fs.Path;
-import org.apache.parquet.avro.AvroWriteSupport;
 import org.apache.parquet.hadoop.ParquetWriter;
 import org.apache.parquet.hadoop.metadata.CompressionCodecName;
 import org.apache.parquet.schema.MessageType;

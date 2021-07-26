@@ -1,6 +1,7 @@
 package org.example;
 
 import com.amazonaws.util.StringInputStream;
+import org.example.parquet.ParquetFileGenerator;
 import org.example.s3.S3Service;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
